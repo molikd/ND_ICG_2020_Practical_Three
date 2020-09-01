@@ -9,8 +9,8 @@ module load bio/2.0
 module load julia
 
 #Set inputs
-leftRead="/tmp/ND_ICG_AUG_24/SRR2584863_1.trim.fastq"
-rightRead="/tmp/ND_ICG_AUG_24/SRR2584863_2.trim.fastq"
+leftRead="SRR2584863_1.trim.fastq"
+rightRead="SRR2584863_2.trim.fastq"
 
 #Set output
 outputGraph="ecoli_deBruijnGraph"
