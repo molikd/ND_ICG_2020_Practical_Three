@@ -1,7 +1,7 @@
 #!/usr/bin/env julia
 
 #Add packages
-import pkg
+#import pkg
 #Pkg.add("GenomeGraphs")
 #Pkg.add("FASTX")
 #Pkg.add("ReadDatastores")
